@@ -1,0 +1,6 @@
+In the name of God
+
+- use the agents as a manager not a worker (know what is heppening)
+- start as simple as you can then increase the complexity gradually.
+- evaluate the system in each step the go to the next step.
+- Particularly with smaller models, more experiments may be needed to get reliable outcomes.
