@@ -4,3 +4,4 @@ In the name of God
 - start as simple as you can then increase the complexity gradually.
 - evaluate the system in each step the go to the next step.
 - Particularly with smaller models, more experiments may be needed to get reliable outcomes.
+- in the structured outpout designing, consider the rational order
